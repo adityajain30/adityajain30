@@ -2,7 +2,7 @@
 <h3 align="center">A passionate hardware engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working as a Firmware engineer<br>🌱 I’m currently learning RTL design and verification<br>⚡ I'm interested in electronics 
+🔭 I’m currently working as a Firmware engineer<br>🌱 I’m currently learning Operating systems and computer architecture<br>⚡ I'm interested in electronics 
 
 
 ## 🌐 Socials:
